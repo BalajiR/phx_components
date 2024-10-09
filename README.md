@@ -1,5 +1,15 @@
 # PhxComponents
 
+## Components
+  - [x] Calendar
+  - [ ] Skeleton Grid
+  - [ ] SegmentedControl
+  - [ ] Progress
+  - [ ] Loader
+  - [ ] Rating
+  - [ ]
+  - [ ]
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
